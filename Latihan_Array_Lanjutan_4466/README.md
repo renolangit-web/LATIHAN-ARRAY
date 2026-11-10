@@ -1,19 +1,27 @@
-# LATIHAN ARRAY JAVASCRIPT
+Latihan Praktik Manipulasi dan Pengolahan Data Array JavaScript
 
-## 1. Identitas Siswa
-Nama: Reyno Rezki Langit Ramadhan
-NIS: [4466]
-Kelas: [XI RPL 2]
+Identitas Siswa
 
-## 2. Judul Latihan
-Manipulasi dan pengolahan Data Array JavaScript
+- Nama: Reyno Rezki Langit Ramadhan
+- Kelas: XI RPL 2
+- NIS: (4466)
 
-## 3. Daftar Latihan Soal
-01-antrean-siswa.js
-02-daftar-siswa.js
-03-pencarian-peserta.js
-04-pengolahan-nilai.js
-05-perlengkapan-kelas.js
+Judul Latihan
 
-## 4. Cara Menjalankan Program
-Program dijalankan menggunakan Node.js atau terminal VS Code.
+Manipulasi dan Pengolahan Data Array JavaScript
+
+Daftar Soal
+
+1. Mengelola Antrean Siswa
+2. Mengelola Daftar Buku Pemrograman
+3. Pencarian Peserta Lomba
+4. Pengolahan Nilai Ulangan
+5. Sistem Pengelolaan Perlengkapan Kelas
+
+Cara Menjalankan Program
+
+1. Buka folder proyek menggunakan VS Code.
+2. Buka terminal.
+3. Jalankan program menggunakan Node.js:
+
+node nama-file.js
